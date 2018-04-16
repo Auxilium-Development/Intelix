@@ -8,4 +8,4 @@ Intelix unifes notifcations from one app into 1 category from each app. It is st
 Team Auxillium
 
 ## Screenshot(s)
-![](https://raw.githubusercontent.com/Auxilium-Development/Intelix/master/screenshots/image-5.png)
+![](https://github.com/Auxilium-Development/Intelix/blob/master/screenshots/image.png.jpeg?raw=true)
